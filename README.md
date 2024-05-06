@@ -1,5 +1,7 @@
-# install dependencies
+# Node typescript template
+
+## install dependencies
 npm install
 
-# run 
+## run 
 npm start
